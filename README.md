@@ -65,11 +65,11 @@ exp1/
 │       ├── layout.js       # Root layout
 │       └── page.js         # Home page
 ├── public/                 # Static assets
-├── package.json           # Project dependencies
-├── next.config.mjs        # Next.js configuration
-├── postcss.config.mjs     # PostCSS configuration
-├── tailwind.config.js     # Tailwind CSS configuration
-└── README.md              # This file
+├── jsconfig.json           # JavaScript configuration
+├── next.config.mjs         # Next.js configuration
+├── package.json            # Project dependencies
+├── postcss.config.mjs      # PostCSS configuration
+└── README.md               # This file
 ```
 
 ## 📄 Pages
